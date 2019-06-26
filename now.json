@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "gymdolo",
+    "builds": [
+        { "src": "**/*.js", "use": "@now/node" }
+    ]
+}
